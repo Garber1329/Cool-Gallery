@@ -1,1 +1,1 @@
-# Cool-Gallery
+# https://garber1329.github.io/Cool-Gallery/
